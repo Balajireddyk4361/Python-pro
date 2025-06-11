@@ -17,11 +17,18 @@
 # print(a1)
 
 # #---------------------------------------------------
-def get_bal():
-    return 100,True
+# def get_bal():
+#     return 100,True
 
-s1=get_bal()
-print (s1)
-print(type(s1))
+# s1=get_bal()
+# print (s1)
+# print(type(s1))
 
-    
+
+
+def loginFunction(name,status):
+    if status== True :
+
+        print('login success')
+
+loginFunction('bala',True)
