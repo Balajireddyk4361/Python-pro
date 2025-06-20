@@ -1,0 +1,8 @@
+[
+    {"eid":101,"esal":500000,"ename":"balajireddy","loc":false},
+    {"eid":101,"esal":600000,"ename":"orange","loc":true},
+    {"eid":101,"esal":700000,"ename":"pakoda","loc":false},
+    {"eid":101,"esal":800000,"ename":"sreenivasulu","loc":true},
+    {"eid":101,"esal":900000,"ename":"suseele","loc":false},
+    {"eid":101,"esal":300000,"ename":"sankar","loc":false}
+]
