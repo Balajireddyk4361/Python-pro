@@ -1,8 +1,8 @@
 '''
-4)try=>risky code 
-1)except
-2)finally
-3)raise
+1)try=>risky code 
+2)except =>Handling code 
+3)finally => Mandatory statement
+4)raise =>for handling user defined Error
 
 '''
 # fp=open('xyz.txt','r')
@@ -59,3 +59,5 @@ except ZeroDivisionError as error:
     
 except FileExistsError as error:
    print("File no found pleace check")
+
+   
